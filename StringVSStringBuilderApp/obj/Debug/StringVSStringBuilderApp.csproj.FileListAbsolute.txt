@@ -1,0 +1,11 @@
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\obj\Debug\StringVSStringBuilderApp.csproj.AssemblyReference.cache
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\obj\Debug\StringVSStringBuilderApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\obj\Debug\StringVSStringBuilderApp.Properties.Resources.resources
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\obj\Debug\StringVSStringBuilderApp.csproj.GenerateResource.cache
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\obj\Debug\StringVSStringBuilderApp.csproj.CoreCompileInputs.cache
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\bin\Debug\StringVSStringBuilderApp.exe.config
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\bin\Debug\StringVSStringBuilderApp.exe
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\bin\Debug\StringVSStringBuilderApp.pdb
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\obj\Debug\StringVSStringBuilderApp.exe
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\obj\Debug\StringVSStringBuilderApp.pdb
+C:\Users\lwiltshire\Desktop\SkillSets\csharp\StringVSStringBuilderApp\StringVSStringBuilderApp\obj\Debug\StringVSStringBuilderApp.StringBuilderApp.resources
